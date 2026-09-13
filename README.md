@@ -1,5 +1,7 @@
 # 🚀 Top des Outils IA pour la Productivité (Mise à jour 2026)
 
+Un projet [BZHandiBreizh](https://pjbreizh56bzh.github.io/ia-viral-site/) — retrouvez tous nos guides et outils.
+
 Cette liste est vérifiée et mise à jour automatiquement chaque semaine pour vous faire gagner des heures de travail. 
 
 ---
