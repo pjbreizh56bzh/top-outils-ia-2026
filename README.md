@@ -5,8 +5,8 @@ Cette liste est vérifiée et mise à jour automatiquement chaque semaine pour v
 ---
 
 ### ☕ Soutenez ce projet gratuit
-Ce travail de curation vous fait gagner du temps ? Le pourboire ☕ arrive bientôt.  
-![Buy Me A Coffee](https://img.shields.io/badge/Bient%C3%B4t_disponible-cccccc?style=for-the-badge&logo=buy-me-a-coffee&logoColor=666666)
+Ce travail de curation vous fait gagner du temps ? Vous pouvez m'offrir un café pour maintenir cette liste à jour !  
+[![Buy Me A Coffee](https://img.shields.io/badge/Offrir_un_café-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/johnbreizhbzh)
 
 ---
 
