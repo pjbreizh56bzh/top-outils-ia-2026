@@ -5,8 +5,8 @@ Cette liste est vérifiée et mise à jour automatiquement chaque semaine pour v
 ---
 
 ### ☕ Soutenez ce projet gratuit
-Ce travail de curation vous fait gagner du temps ? Vous pouvez m'offrir un café pour maintenir cette liste à jour !  
-[![Buy Me A Coffee](https://img.shields.io/badge/Offrir_un_café-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/TON_PSEUDO_ICI)
+Ce travail de curation vous fait gagner du temps ? Le pourboire ☕ arrive bientôt.  
+![Buy Me A Coffee](https://img.shields.io/badge/Bient%C3%B4t_disponible-cccccc?style=for-the-badge&logo=buy-me-a-coffee&logoColor=666666)
 
 ---
 
@@ -28,7 +28,7 @@ Ce travail de curation vous fait gagner du temps ? Vous pouvez m'offrir un café
 
 ### 📚 Vous voulez aller plus vite ? (Version Premium)
 J'ai compilé un **PDF exclusif** avec 50 outils IA cachés, leurs liens d'inscription prioritaires et mes prompts (commandes) secrets pour les utiliser comme un pro.  
-📥 **[Télécharger le Guide Premium pour 5€ ici](https://gumroad.com/TON_LIEN_GUMROAD_ICI)**
+📥 **Guide Premium (5€) — en cours de mise en vente, revenez bientôt.**
 
 ---
 *🤖 Dernière vérification automatique des liens : 08/09/2026*
