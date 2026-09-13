@@ -4,6 +4,9 @@ Un projet [BZHandiBreizh](https://pjbreizh56bzh.github.io/ia-viral-site/) — re
 
 Cette liste est vérifiée et mise à jour automatiquement chaque semaine pour vous faire gagner des heures de travail. 
 
+> ℹ️ Les boutons ci-dessous ouvrent votre application e-mail. Si rien ne s'ouvre (cas
+> fréquent avec Gmail dans le navigateur), écrivez simplement à **pjbreizh56bzh@gmail.com**.
+
 ---
 
 ### ☕ Soutenez ce projet gratuit
